@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dinesh0110
-- 👀 I’m interested in . programming
-- 🌱 I’m currently learning bsc computer science
+- 👋 Hi, I’m Dinesh
+- 👀 I’m interested in A.I
+- 🌱 I’m currently pursuing Master's in A.I
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..mailid:dineshsaliyar@gmail.com
 
