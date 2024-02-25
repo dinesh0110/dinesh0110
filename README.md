@@ -59,19 +59,15 @@
 ###
 
 <div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dinesh0110&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dinesh0110&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=dinesh0110&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/dinesh0110/dinesh0110/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
 
 ###
 
@@ -95,5 +91,9 @@
 ###
 
 <img align="right" src="https://profile-counter.glitch.me/dinesh0110/count.svg?"  />
+
+###
+
+<img align="right" height="200" src="https://media.giphy.com/media/j6MwR2b2DEQz2TS5bV/giphy.gif?cid=ecf05e473buv3czurggcz5yvwhefmso479clcmzl68wqs2iu&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
