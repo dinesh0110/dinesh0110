@@ -26,7 +26,7 @@ I build things that reduce manual effort — from multimodal AI chatbots to auto
 **[DataForge](https://github.com/dinesh0110/dataforge)** — Flask-based analytics app that automates data cleaning, EDA, and BI-style report generation for CSV datasets. Integrates OpenAI API for narrative insights.
 `Python` `Flask` `Pandas` `NumPy` `OpenAI API`
 
-**[Analytics Dashboard](https://github.com/dinesh0110/analytics-dashboard)** — Processed 500K+ records in PostgreSQL, built star schema, reduced load time ~40%, delivered interactive Power BI dashboards.
+**[Analytics Dashboard](https://github.com/dinesh0110/Industry-Level-Data-Analytics-Dashboard)** — Processed 500K+ records in PostgreSQL, built star schema, reduced load time ~40%, delivered interactive Power BI dashboards.
 `SQL` `PostgreSQL` `Power BI` `Power Query`
 
 ---
